@@ -1,2 +1,2 @@
 # TDP
-Simulazioni Esame per il corso di "Tecniche di Programmazione"
+Esercizi Esame per il corso di "Tecniche di Programmazione"
